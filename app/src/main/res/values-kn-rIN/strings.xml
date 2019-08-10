@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ಅಧಿಸೂಚನೆ ಲಾಗ್</string>
+    <string name="notification_access_label">@string/app_name</string>
+
+    <!-- Activities -->
+    <string name="activity_browse">ಬ್ರೌಸರ್</string>
+    <string name="activity_details">ವಿವರಗಳು</string>
+
+    <!-- Menu -->
+    <string name="menu_about">ಬಗ್ಗೆ</string>
+    <string name="menu_refresh">ರಿಫ್ರೆಶ್ ಮಾಡಿ</string>
+    <string name="menu_delete">ಅಳಿಸಿ</string>
+    <string name="menu_export">ರಫ್ತು</string>
+
+    <!-- Settings categories -->
+    <string name="category_settings">ಸೆಟ್ಟಿಂಗ್‌ಗಳು</string>
+    <string name="category_actions">ಕ್ರಿಯೆಗಳು</string>
+
+    <!-- Status -->
+    <string name="settings_status">ಸ್ಥಿತಿ</string>
+    <string name="settings_notification_access_unknown">ಅಜ್ಞಾತ</string>
+    <string name="settings_notification_access_enabled">ಸಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ</string>
+    <string name="settings_notification_access_disabled">ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ - ಸಕ್ರಿಯಗೊಳಿಸಲು ಇಲ್ಲಿ ಕ್ಲಿಕ್ ಮಾಡಿ</string>
+
+    <!-- Browse -->
+    <string name="settings_browse">ಅಧಿಸೂಚನೆಗಳನ್ನು ಬ್ರೌಸ್ ಮಾಡಿ</string>
+    <string name="settings_browse_summary_singular">%1$d ಅಧಿಸೂಚನೆ</string>
+    <string name="settings_browse_summary_plural">%1$d ಅಧಿಸೂಚನೆಗಳು</string>
+
+    <!-- Log text -->
+    <string name="settings_text">ಲಾಗ್ ಪಠ್ಯ</string>
+    <string name="settings_text_summary">ಡೌನ್‌ಲೋಡ್‌ಗಳಂತಹ ನಡೆಯುತ್ತಿರುವ ಅಧಿಸೂಚನೆಗಳನ್ನು ಲಾಗ್ ಮಾಡಿ. ಇದು ಹೆಚ್ಚಿನ ಸಂಖ್ಯೆಯ ಹೆಚ್ಚುವರಿ ಲಾಗ್ ನಮೂದುಗಳನ್ನು ರಚಿಸುತ್ತದೆ</string>
+
+    <!-- Log ongoing -->
+    <string name="settings_ongoing">ಲಾಗ್ ಪಠ್ಯ</string>
+    <string name="settings_ongoing_summary">ನಿಜವಾದ ಅಧಿಸೂಚನೆ ವಿಷಯವನ್ನು ಲಾಗ್ ಮಾಡಿ. ಇದು ಲಾಗ್ ಫೈಲ್‌ನ ಗಾತ್ರವನ್ನು ಹೆಚ್ಚಿಸುತ್ತದೆ ಆದರೆ ಹಿಂದಿನ ಸಂದೇಶಗಳನ್ನು ಓದಲು ನಿಮಗೆ ಅನುಮತಿಸುತ್ತದೆ.</string>
+
+    <!-- Export -->
+    <string name="snackbar_export">ರಫ್ತು ಮಾಡಲಾಗುತ್ತಿದೆ… ದಯವಿಟ್ಟು ಕಾಯಿರಿ…</string>
+
+    <!-- Delete -->
+    <string name="dialog_delete_header">ಅಳಿಸುವಿಕೆಯನ್ನು ದೃ irm ೀಕರಿಸಿ</string>
+    <string name="dialog_delete_text">ಲಾಗ್ ಫೈಲ್ ಅನ್ನು ಅಳಿಸಲು ನೀವು ನಿಜವಾಗಿಯೂ ಬಯಸುವಿರಾ? ಇದನ್ನು ರದ್ದುಗೊಳಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ.</string>
+    <string name="dialog_delete_yes">ಅಳಿಸಿ</string>
+    <string name="dialog_delete_no">ರದ್ದುಮಾಡಿ</string>
+
+    <!-- About -->
+    <string name="settings_about">ಬಗ್ಗೆ</string>
+    <string name="settings_about_summary">ಅಧಿಸೂಚನೆ GitHub ನಲ್ಲಿ ಲಾಗ್ ಮಾಡಿ. ಎಂಐಟಿ ಪರವಾನಗಿ ಅಡಿಯಲ್ಲಿ ಪರವಾನಗಿ ಪಡೆದಿದೆ.</string>
+
+    <!-- Version -->
+    <string name="settings_version">ಆವೃತ್ತಿ</string>
+
+    <!-- Details -->
+    <string name="details_error">ಈ ಪ್ರವೇಶದ ವಿವರಗಳನ್ನು ಲೋಡ್ ಮಾಡಲು ಸಾಧ್ಯವಿಲ್ಲ.</string>
+    <string name="empty_log_file">ಯಾವುದೇ ಅಧಿಸೂಚನೆಗಳು ಇನ್ನೂ ಲಾಗ್ ಆಗಿಲ್ಲ!</string>
+    <string name="open_notification_settings">ಅಧಿಸೂಚನೆ ಸೆಟ್ಟಿಂಗ್‌ಗಳು</string>
+
+    <!-- Delete Notification -->
+    <string name="delete_dialog_title">ಅಧಿಸೂಚನೆಯನ್ನು ಅಳಿಸಿ</string>
+    <string name="delete_dialog_text">ಈ ಅಧಿಸೂಚನೆಯನ್ನು ಅಳಿಸಲು ನೀವು ನಿಜವಾಗಿಯೂ ಬಯಸುವಿರಾ? ಇದನ್ನು ರದ್ದುಗೊಳಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ.</string>
+    <string name="delete_dialog_yes">ಅಳಿಸಿ</string>
+    <string name="delete_dialog_no">ರದ್ದುಮಾಡಿ</string>
+
+    <!--Change Language-->
+    <string name="changeLang">ಭಾಷೆ ಬದಲಾಯಿಸಿ</string>
+</resources>

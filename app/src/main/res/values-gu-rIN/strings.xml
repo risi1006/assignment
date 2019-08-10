@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">સૂચના લ Logગ</string>
+    <string name="notification_access_label">@string/app_name</string>
+
+    <!-- Activities -->
+    <string name="activity_browse">બ્રાઉઝર</string>
+    <string name="activity_details">વિગતો</string>
+
+    <!-- Menu -->
+    <string name="menu_about">વિશે</string>
+    <string name="menu_refresh">તાજું કરો</string>
+    <string name="menu_delete">કા .ી નાખો</string>
+    <string name="menu_export">નિકાસ કરો</string>
+
+    <!-- Settings categories -->
+    <string name="category_settings">સેટિંગ્સ</string>
+    <string name="category_actions">ક્રિયાઓ</string>
+
+    <!-- Status -->
+    <string name="settings_status">સ્થિતિ</string>
+    <string name="settings_notification_access_unknown">અજાણ્યું</string>
+    <string name="settings_notification_access_enabled">સક્ષમ</string>
+    <string name="settings_notification_access_disabled">અક્ષમ કરેલ - સક્ષમ કરવા માટે અહીં ક્લિક કરો</string>
+
+    <!-- Browse -->
+    <string name="settings_browse">સૂચનાઓ બ્રાઉઝ કરો</string>
+    <string name="settings_browse_summary_singular">%1$d સૂચના</string>
+    <string name="settings_browse_summary_plural">%1$d સૂચનાઓ</string>
+
+    <!-- Log text -->
+    <string name="settings_text">લખાણ લ Logગ કરો</string>
+    <string name="settings_text_summary">ડાઉનલોડ્સ જેવી ચાલુ સૂચનાઓ લ Logગ ઇન કરો. આ મોટી સંખ્યામાં વધારાની લ logગ પ્રવેશો બનાવે છે</string>
+
+    <!-- Log ongoing -->
+    <string name="settings_ongoing">લખાણ લ Logગ કરો</string>
+    <string name="settings_ongoing_summary">વાસ્તવિક સૂચના સામગ્રીને લ Logગ ઇન કરો. આ લોગ ફાઇલનું કદ વધારશે પરંતુ તમને પાછલા સંદેશાઓ વાંચવાની મંજૂરી આપે છે.</string>
+
+    <!-- Export -->
+    <string name="snackbar_export">નિકાસ કરી રહ્યું છે… કૃપા કરી પ્રતીક્ષા કરો…</string>
+
+    <!-- Delete -->
+    <string name="dialog_delete_header">કાtionી નાખવાની પુષ્ટિ કરો</string>
+    <string name="dialog_delete_text">શું તમે ખરેખર લ logગ ફાઇલને કા deleteી નાખવા માંગો છો? આ પૂર્વવત્ કરી શકાતું નથી.</string>
+    <string name="dialog_delete_yes">કા .ી નાખો</string>
+    <string name="dialog_delete_no">રદ કરો</string>
+
+    <!-- About -->
+    <string name="settings_about">વિશે</string>
+    <string name="settings_about_summary">સૂચના ગિટહબ પર લ Logગ ઇન કરો. એમઆઈટી લાઇસન્સ હેઠળ લાઇસન્સ પ્રાપ્ત.</string>
+
+    <!-- Version -->
+    <string name="settings_version">સંસ્કરણ</string>
+
+    <!-- Details -->
+    <string name="details_error">આ પ્રવેશની વિગતો લોડ કરવામાં અસમર્થ.</string>
+    <string name="empty_log_file">હજી સુધી કોઈ સૂચના લ loggedગ ઇન થઈ નથી!</string>
+    <string name="open_notification_settings">સૂચના સેટિંગ્સ</string>
+
+    <!-- Delete Notification -->
+    <string name="delete_dialog_title">સૂચના કા Deleteી નાખો</string>
+    <string name="delete_dialog_text">શું તમે ખરેખર આ સૂચના કા deleteી નાખવા માંગો છો? આ પૂર્વવત્ કરી શકાતું નથી.</string>
+    <string name="delete_dialog_yes">કા .ી નાખો</string>
+    <string name="delete_dialog_no">રદ કરો</string>
+
+    <!--Change Language-->
+    <string name="changeLang">ભાષા બદલો</string>
+</resources>
